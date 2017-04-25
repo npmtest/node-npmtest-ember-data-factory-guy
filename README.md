@@ -1,4 +1,7 @@
-# test coverage for  [ember-data-factory-guy (v2.12.3)](https://github.com/danielspaniel/ember-data-factory-guy)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-data-factory-guy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-data-factory-guy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy)
+# npmtest-ember-data-factory-guy
+
+#### basic test coverage for  [ember-data-factory-guy (v2.12.3)](https://github.com/danielspaniel/ember-data-factory-guy)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-data-factory-guy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-data-factory-guy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy)
+
 #### Factories for testing Ember applications using EmberData
 
 [![NPM](https://nodei.co/npm/ember-data-factory-guy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-data-factory-guy)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-data-factory-guy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-data-factory-guy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ember-data-factory-guy/build/coverage.html/index.html)
 
@@ -107,7 +110,8 @@
         "start": "ember server",
         "test": "ember test"
     },
-    "version": "2.12.3"
+    "version": "2.12.3",
+    "bin": {}
 }
 ```
 

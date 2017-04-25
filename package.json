@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [ember-data-factory-guy (v2.12.3)](https://github.com/danielspaniel/ember-data-factory-guy) [![npm package](https://img.shields.io/npm/v/npmtest-ember-data-factory-guy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-data-factory-guy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy)",
+    "description": "#### basic test coverage for  [ember-data-factory-guy (v2.12.3)](https://github.com/danielspaniel/ember-data-factory-guy)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-data-factory-guy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-data-factory-guy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-data-factory-guy)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ember-data-factory-guy": "*",
